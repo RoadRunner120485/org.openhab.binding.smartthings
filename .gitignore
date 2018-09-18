@@ -1,1 +1,7 @@
 *.class
+.project
+.settings/
+.classpath
+target/
+.DS_Store
+*.iml
